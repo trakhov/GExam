@@ -1,0 +1,214 @@
+
+\pagestyle{empty}
+\parindent = 0pt
+
+\usepackage{fancyhdr} 
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\newlength{\miniH}\setlength{\miniH}{98.7mm}
+\newlength{\miniL}\setlength{\miniL}{188mm}
+\newlength{\logoW}\setlength{\logoW}{35mm}
+
+% \newcounter{bilet}
+
+\newcommand{\bak}{Направление}
+\newcommand{\spec}{}
+\newcommand{\disc}{}
+\newcommand{\kaf}{}
+\newcommand{\protocol}{\rlfill}
+\newcommand{\logo}{logo_new_psk} 
+\newcommand{\teacherName}{}
+\newcommand{\zavkafName}{} 
+
+
+\DeclareDocumentCommand \insertItem { m } { \item #1 }
+
+
+\DeclareDocumentCommand \ExamCard
+	{ > { \SplitList {;;} } m } {
+	
+	{\begin{minipage}[b][\miniH][t]{\miniL}			
+		\vspace{.7cm}\addtocounter{bilet}{1}
+	  \begin{center}	
+	  	\parbox[b]{\logoW}{\centering\includegraphics[width=2cm]{\logo}}%
+	  	\parbox[b]{\miniL - \logoW}{
+	  		\begin{tabularx}{\miniL - \logoW}{@{} X p{12cm} @{}}
+	  			\bak:					& \spec \\
+	  			Дисциплина:  	& \disc \\
+		  		\multicolumn{2}{@{} l}{Утверждено заседанием кафедры \kaf\ от \protocol}
+	  		\end{tabularx}\bigskip
+
+				\parbox[t]{\widthof{Преподаватель: \rlfill}}{
+					Преподаватель: \rlfill\\\teacherName
+				}\hspace{2cm}%
+				\parbox[t]{\widthof{Зав. кафедрой: \rlfill}}{
+					Зав. кафедрой: \rlfill\\\zavkafName
+				}\vfill
+	  	}\medskip
+
+	    {\large\textbf{\textsc{Экзаменационный билет №\thebilet}}
+
+	    }	
+	    \begin{enumerate}{ \ProcessList {#1} { \insertItem } }\end{enumerate}	
+	  \end{center}	
+	\end{minipage}}
+}
+
+
+\DeclareDocumentCommand \teacher { m } {
+	\IfNoValueTF {#1} {} {
+		\renewcommand{\teacherName}{
+			\centering(\footnotesize{#1})
+		}
+	}
+}
+
+\DeclareDocumentCommand \zavkaf { m } {
+	\IfNoValueTF {#1} {} {
+		\renewcommand{\zavkafName}{
+			\centering(\footnotesize{#1})
+		}
+	}
+}
+
+\DeclareDocumentCommand \rlfill { O{28mm} } {
+	\makebox[#1]{\hrulefill}
+}
+
+
+
+\DeclareDocumentCommand \GExamCard { > {\SplitList {;;} } m } {
+	
+} 
+
+
+
+
+\DeclareDocumentCommand \topGE { s m m o O{2014} } {
+
+	{\small\centering
+		Министерство образования и науки РФ\\
+		Филиал федерального государственного бюджетного образовательного учреждения высшего образования\\
+		«Санкт-Петербургский государственный экономический университет» в г. Пскове
+
+	}\medskip
+
+	{\large\centering
+		Государственный экзамен 
+			\IfBooleanTF {#1} {по специальности} {по направлению}\\
+		#2 «#3»
+		\IfNoValueTF {#4} {} {\\[-1mm]{\small(специализация «#4»)}}
+
+	}
+
+	{\centering
+		#5 г.\smallskip
+
+	}
+
+}
+
+
+\DeclareDocumentCommand \smallGE { s m m o } {
+	\begin{center}\Large\bfseries
+		Государственный экзамен
+		\IfBooleanTF {#1} {по специальности} {по направлению}\\ 
+		#2 <<#3>>
+		\IfNoValueTF {#4} {} {\\[-1mm]{\normalsize(специализация <<#4>>)}}
+
+	\end{center}
+}
+
+
+
+\DeclareDocumentCommand \bilGE { m m m m } {
+	{\large\bfseries\textsc{Экзаменационный билет №#1}
+
+	}
+	\begin{enumerate}
+		\item #2
+		\item #3
+		\item #4
+	\end{enumerate}
+}
+
+
+\DeclareDocumentCommand \prGE { } {
+
+	\addtocounter{zad}{1}
+	\noindent{\large\bfseries\textsc{\hfilЗадача №\arabic{zad}}
+
+	}
+	\medskip
+}
+
+
+
+
+\DeclareDocumentCommand \lowGE { s O{А. М. Алексеева} O{5mm} } {
+	\IfBooleanTF {#1} {\bigskip} {\vfill}
+	\makebox{Директор филиала\hspace{#3}}
+	\makebox[5cm]{\hrulefill}
+	\makebox{\hspace{#3} #2 }
+	\IfBooleanTF {#1} {
+		\begin{tikzpicture}
+			\draw[white] (0, 0) -- (0, -1);
+			\draw[dashed] (0, -1) -- +(\textwidth, 0);			
+		\end{tikzpicture}
+	} {}
+}
+
+
+
+\DeclareDocumentCommand \topE { s m m m m O{\hrulefill} O{logo_new_psk} } {
+
+  \noindent\begin{tabularx}{\textwidth}{ @{} X @{} p{8cm} @{} p{6.5cm} }
+    \includegraphics[scale=.27]{#7} 
+    & 
+    \begin{tabular}[b]{ll}
+      Дисциплина: & #2\\
+      \IfBooleanTF {#1} {Специальность:} {Направление:} & #3\\[.5cm]
+      \multicolumn{2}{c}{Преподаватель: \hrulefill}\\
+      \multicolumn{2}{c}{\raisebox{4mm}{\footnotesize{(#4)}}}
+    \end{tabular} 
+    & 
+    \begin{tabular}[b]{l}
+      Утверждено заседанием\\
+      кафедры ОиТДС от \makebox[2cm]{#6}\\[.5cm]      
+      \multicolumn{1}{l}{Зав. кафедрой: \hrulefill}\\
+      \multicolumn{1}{c}{\raisebox{4mm}{\footnotesize{(#5)}}}
+    \end{tabular}\\
+  \end{tabularx}
+
+  \begin{center}
+		\addtocounter{bilet}{1}
+    {\large\textbf{\textsc{Экзаменационный билет №\thebilet}}
+
+    }
+  \end{center}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\DeclareDocumentCommand \signatures { 
+    m m m m O{sign_trakhov} O{.33} O{sign_ivanov} O{.33}
+} {
+    
+    \begin{tikzpicture}[remember picture, overlay]
+        \foreach \x/\y/\p/\s in {#1/#2/#5/#6, #3/#4/#7/#8}
+            \node at (\x, \y) {\includegraphics[scale=\s]{\p}};
+    \end{tikzpicture}
+
+}
