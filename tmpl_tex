@@ -1,0 +1,34 @@
+\documentclass[
+	12pt,
+	a4paper,
+	]
+	{article}
+
+\usepackage[
+	papersize={210mm,99mm},
+	top=1cm,
+	left=1.5cm,
+	right=1.5cm,
+	bottom=1cm
+	]{geometry}
+
+\usepackage{mystylight}
+
+
+\newcommand{\shapkFull}{
+	\shapk
+		{.26}
+		{logo_new_psk}
+		{%{spec}}
+		{%{disc}}
+		{%{kafedra}}
+		{%{protocol}}
+}
+
+\pagestyle{empty}
+
+\begin{document}
+
+%{data}
+
+\end{document}

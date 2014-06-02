@@ -1,0 +1,39 @@
+\documentclass[
+	11pt,
+	a4paper,
+	]
+	{article}
+
+\usepackage{mysty, xparse, GExam, fancyhdr}
+
+\usepackage[
+	top = .7cm,
+	right = 1cm,
+	bottom = 1.2cm,
+	left = 1cm,
+	headheight = 14pt
+	]{geometry}
+
+
+\pagestyle{empty}
+
+\begin{document}
+
+\newlength{\pblength}\settowidth{\pblength}{Директор филиала СПбГЭУ в г. Пскове}
+
+\hfill\parbox{\pblength}{
+	\textbf{\textsc{Утверждаю}}\medskip
+
+	Директор филиала СПбГЭУ в г. Пскове\medskip
+
+	\makebox[3cm]{\hrulefill} А. М. Алексеева\medskip
+
+	\makebox[1.5cm]{<<\hrulefill>>} \makebox[3cm]{\hrulefill}\ 2014 год
+}
+
+
+\smallGE %{bak} {%{spec}} {%{title}}%{type}
+
+	%{data}
+
+\end{document}

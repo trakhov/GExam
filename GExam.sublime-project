@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "D:\\trakhov\\Dropbox\\texmf\\tex\\latex"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/trakhov/Dropbox/texmf/tex/latex"
+		}
+	]
+}

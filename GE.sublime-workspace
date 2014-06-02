@@ -1,0 +1,1248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"F",
+				"__FILE__"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"par",
+				"params"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 384.0,
+		"selected_items":
+		[
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"tex",
+				"Set Syntax: TeX Math"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"la",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"selecol",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"sch",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"sche",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"rail",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"syn",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ysn",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syn htm",
+				"SyntaxHighlightTools: Count all scope names"
+			],
+			[
+				"synru",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"syntex",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"htmlr",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"synjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"synres",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"nwe tmla",
+				"SyntaxHighlightTools: New tmLang File…"
+			],
+			[
+				"mulma",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"res",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"rest",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"new tml",
+				"SyntaxHighlightTools: New tmLang File…"
+			],
+			[
+				"synpla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"synruby ",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"synjavas",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"tm",
+				"SyntaxHighlightTools: New tmLang File…"
+			],
+			[
+				"synhtmlra",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"ruby rai",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"syn rails",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"erb",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"tex mat",
+				"Set Syntax: TeX Math"
+			],
+			[
+				"syn tex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"lat",
+				"Set Syntax: LaTeX"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/trakhov/Dropbox/TeX/GZ/output/zao_calc_exam_as13.tex",
+		"/D/trakhov/Dropbox/TeX/GZ/misc.rb",
+		"/D/trakhov/Dropbox/TeX/GZ/helpers/writer.rb",
+		"/D/SublimeText3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/trakhov/Dropbox/TeX/GZ/misc/calendar.fdb_latexmk",
+		"/D/trakhov/Dropbox/TeX/GZ/misc/laplace.tex",
+		"/D/trakhov/Dropbox/TeX/GZ/misc/rnd_var.tex",
+		"/D/trakhov/Dropbox/TeX/GZ/output/zao_opti_exam.tex",
+		"/D/trakhov/Dropbox/TeX/GZ/output/zao_alge_exam_3.tex",
+		"/D/trakhov/Dropbox/TeX/GZ/groups/zao.rb",
+		"/D/trakhov/Dropbox/TeX/GZ/groups/a_12.tex",
+		"/D/trakhov/Dropbox/TeX/GZ/misc/all_titles_a4.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/new_story.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/helpers/writer.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/misc/testing.tex",
+		"/home/trakhov/Dropbox/texmf/tex/latex/GExam.sty",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/exam/grade3(5)",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/exam/main",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/integral_area/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/integral_area/list.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/integral_area/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_product/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/exam/grade3(4)",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/exam/grade3(3)",
+		"/home/trakhov/Dropbox/TeX/GZ/output/zao_calc_exam_3.synctex.gz",
+		"/home/trakhov/Dropbox/TeX/GZ/helpers/Event.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/output/zao_calc_exam_3.fdb_latexmk",
+		"/home/trakhov/Dropbox/TeX/GExam/exam_all.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/misc/exp.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/output/zao_alge_exam_45.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/kr/4",
+		"/home/trakhov/Dropbox/TeX/GZ/output/zao_game_exam_3.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/testing2.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/testing.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/gos_exam.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/helpers/Template.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/exam/grade3(6)",
+		"/home/trakhov/Dropbox/TeX/GZ/data/zao_game_kr_es12.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/output/zao_game_exam_3.synctex.gz",
+		"/home/trakhov/Dropbox/texmf/tex/latex/mysty.sty",
+		"/home/trakhov/Dropbox/texmf/tex/latex/GZ.sty",
+		"/home/trakhov/Dropbox/TeX/GExam/exam_all.sh",
+		"/home/trakhov/Dropbox/TeX/GZ/output/zao_game_exam.tex",
+		"/home/trakhov/.config/sublime-text-3/Packages/User/LaTeX.sublime-settings",
+		"/home/trakhov/Dropbox/TeX/GExam/papeeria/mysty.sty",
+		"/home/trakhov/Dropbox/TeX/GExam/data/80109_Бухгалтерский_учет_в_сфере_услуг.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/tmpl_tex",
+		"/home/trakhov/Dropbox/TeX/GZ/misc/testing.fdb_latexmk",
+		"/home/trakhov/Dropbox/TeX/GZ/misc/laplace.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_PoverQ/list.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_log/out.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_seq_or_PQ/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_PoverQ/out.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/misc.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_subs/list.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_power/list.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_parts/list.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_log/list.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_trig/list.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_expower/list.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_fraction/list.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_product/list.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_product/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_all/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_expower/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/alge/1/matr_det/in.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_fraction/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_fraction/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_all/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_expower/out.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/dz",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_parts/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_parts/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/prob/bak/tmpl/misc_a",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/plain",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100103/Стандартизация и сертификация.txt",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100103/Музейная и выставочная работа.txt",
+		"/home/trakhov/Dropbox/TeX/GZ/output/game_dz_3.param.table",
+		"/home/trakhov/Dropbox/TeX/GZ/misc/testing.param.gnuplot",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/game/zao/simplex/redlap.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/tests/all_tests.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/data/zao_game_kr_e12_antonova.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/letuch/main_a4",
+		"/home/trakhov/Dropbox/TeX/GZ/misc/01-introduction.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/groups/ms_13.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/integral_simple/gen.rb",
+		"/home/trakhov/Dropbox/texmf/tex/latex/mathsymbols.sty",
+		"/home/trakhov/Dropbox/TeX/GZ/helpers/matrix_helpers.rb",
+		"/home/trakhov/Dropbox/texmf/tex/latex/common.sty",
+		"/home/trakhov/Dropbox/texmf/tex/latex/math_symbols.sty",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_subs/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_subs/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_trig/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_trig/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_log/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_log/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/integral_simple/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_power/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/int_power/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_seq/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_seq/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_seq/list.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_power/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_PoverQ/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_expower/gen.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/exam/grade345(4spec)",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/exam/grade345(3)",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_seq_or_PQ/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_PoverQ/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_power/in.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/helpers/distributions.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_fraction/out.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_all/out.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/data/bak/exam_prob.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/GZ.sublime-project",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/exam/10",
+		"/home/trakhov/Dropbox/texmf/tex/latex/templates/main.tex",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/exam/grade45(6)",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/kr/game_kr_3",
+		"/home/trakhov/Dropbox/TeX/GZ/templates/kr/3",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_power/list.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/limit_seq/out.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/game/good_bad_ugly/good_bad_ugly.aux",
+		"/home/trakhov/Dropbox/TeX/GZ/output/calc.run.xml",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/opti/geom/raw_in.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/helpers/prob_helpers.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative_product/out.rb",
+		"/home/trakhov/Dropbox/TeX/GZ/stories/calc/derivative/list.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"theme",
+			"node(.+)\\{\\$",
+			"-1",
+			"dom",
+			"1,",
+			":",
+			"itemize",
+			"x}[",
+			"lar",
+			"}{l",
+			"r}",
+			"1cm",
+			"ry",
+			"tabular",
+			"e\\^",
+			"\\\\z",
+			"\\\\vfill",
+			"^(.+)$",
+			"e\\^",
+			" \\\\D\\{x\\}",
+			"\\\\int[LlHh][{} ]+",
+			"^(.+)$",
+			" \\\\D\\{x\\}",
+			"\\\\frac\\{ \\\\D\\{x\\} \\}",
+			"\\\\int[hHlL][{} ]+",
+			"^(.+)$",
+			" \\\\D\\{x\\}",
+			"\\\\int[lLhH][{}]+ ",
+			"^(.+)$",
+			"\\\\D\\{x\\}",
+			"\\\\int[hHlL]\\{\\}\\{\\} ",
+			"^(.+)$",
+			"\\\\frac\\{  \\}",
+			"\\\\D\\{x\\}",
+			"\\\\int[LhlH]\\{\\}\\{\\} ",
+			"^\\t'.+frac\\{(.+)\\}\\{(.+)\\}.+$",
+			"\\$list",
+			"$list",
+			"$",
+			"^",
+			"$",
+			"^",
+			"\\,\\\\quad ",
+			"\\\\quad ",
+			"qslant",
+			"power",
+			"denom",
+			"num",
+			"  +",
+			"^.+\\\\to (.+)\\}.+\\\\frac\\{(.+)\\}\\{(.+)\\}.+\\^\\{ (.+).+\\}.+$",
+			"'.+\\\\frac\\{(.+)\\}\\{(.+)\\}.+'\\,",
+			"([^,]) '",
+			"  +",
+			"^.+\\\\left.+\\\\left\\( +(.+) +\\\\right\\)\\^\\{ (.+) *\\}.+$",
+			"^.+\\\\left.+\\\\left\\( +(.+) +\\\\right\\)\\^\\{ (.+) +\\}.+$",
+			"  +",
+			"^.+\\\\frac\\{ +(.+) +\\}\\{ +(.+) +\\}.+$",
+			"  +",
+			"^\\$.+\\\\left\\( (.+) +\\\\cdot (.+) \\\\right.+$",
+			"  +",
+			"^\\$.+\\\\left\\( (.+) +\\\\cdot (.+) \\\\right.+$",
+			"  +",
+			"^\\$.+\\\\left\\( (.+) \\\\cdot  (.+) \\\\right.+$",
+			"  +",
+			"^.+\\\\left\\( (.+) \\\\cdot  (.+) \\\\right.+$",
+			"(\\d) +'",
+			"^.+\\\\to (.+)\\} \\\\frac\\{(.+)\\}\\{(.+)\\}.+$",
+			"^.+\\\\to (.+)\\} \\\\frac\\{(.+)\\}\\{(.+)\\}",
+			"\\}\\{",
+			"\\[([^,]+)\\,",
+			"\\}.+$",
+			"\\}\\{",
+			" +\\,",
+			"\\[ ",
+			"\\displaystyle \\lim_{ x \\to",
+			"^(.+)$",
+			"	{ \"keys\": [\"ctrl+l\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"line\"} },\n",
+			"nd\": \"find_under_expand\" },\n	{ \"keys\": [\"ctrl+k\", \"ctrl+d\"], \"command\": \"find_under_expand_skip\" },\n	{ \"keys\": [\"ctrl+shift+space\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"scope\"} },\n	{ \"keys\": [\"ctrl+shift+m\"], \"command\": \"expand_selection\", \"args\": {\"to\": \"brackets\"} },\n	{ \"keys\": [\"ctrl+m\"], \"command\": \"move_to\", \"args\": {\"to\": \"brackets\"} },\n	{ \"keys\": [\"ctrl+shift+j\"], ",
+			"a",
+			"<<",
+			"opts",
+			"ch ",
+			"top",
+			"^(.+)$",
+			"subjive",
+			"									 ",
+			"object",
+			"subj",
+			"(object\\: )Matrix\\[(\\[[-\\d]+\\, [-\\d]+\\])\\]",
+			"						    		",
+			"								",
+			"objects",
+			"subject",
+			"pretty(",
+			"Если это возможно, у",
+			"eqnarray*",
+			"\\+ -?",
+			"!dup.dom_pure?",
+			"ary_",
+			"ary",
+			"ary_",
+			"refute",
+			"_false",
+			"2",
+			"row",
+			"matrix2",
+			"matrix1",
+			".1",
+			"nash_pure",
+			"e.floor",
+			"comple",
+			"(e-1)",
+			"e",
+			"row",
+			"rows",
+			".dom?",
+			"dom?",
+			"@",
+			"z",
+			"after",
+			"nil",
+			"false",
+			"to_add",
+			"matrix_with_",
+			"twos",
+			"_col",
+			"M",
+			"m"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"node$1\\{\\\\small$",
+			"\\\\e^",
+			"\\\\pz",
+			"\\\\bigskip",
+			"\\t'$1',",
+			"\\\\e^",
+			"",
+			"\\t'$1',",
+			"",
+			"\\\\frac{1}",
+			"",
+			"\\t'$1',",
+			"",
+			"\\t'$1',",
+			"1",
+			"",
+			"\\t'$1',",
+			"\\\\frac{1}",
+			"",
+			"\\t['$1', '$2'],",
+			"],",
+			"[",
+			"'",
+			"','",
+			"",
+			"\\t\\tpower",
+			"\\t\\tdenom",
+			"\\t\\tnum",
+			" ",
+			"{to: '$1', num: '$2', denom: '$3', power: '$4'},",
+			"['$1', '$2'],",
+			"$1'",
+			" ",
+			"['$1', '$2'],",
+			"['$1', '$2],",
+			" ",
+			"['$1', '$2'],",
+			" ",
+			"['$1', '$2'],",
+			" ",
+			"['$1', '$2']",
+			" ",
+			"['$1', '$2'],",
+			"",
+			"['$1', '$2'],",
+			"$1'",
+			"['$1', '$2', '$3'],",
+			",\\t\\t\\t\\t\\t\\t\\t",
+			",\\t\\t\\t\\t",
+			"['$1',",
+			"],",
+			", ",
+			",",
+			"[",
+			"\\t'$1',",
+			"object",
+			"								 ",
+			"subj",
+			"objective",
+			"object",
+			"\\1\\2",
+			"						     ",
+			"						    ",
+			"						   ",
+			"						 ",
+			"						",
+			"subj",
+			"object",
+			"nash",
+			".dom_mix?",
+			"\"\\1\"",
+			"",
+			"ht!",
+			"",
+			"%d",
+			"\\1\\1",
+			"\\\\\\\\",
+			"%%",
+			"",
+			"'",
+			"\\1",
+			"'",
+			"\\1",
+			"\\\\text{\\1}",
+			"\\text{\\1}",
+			"\\1*",
+			"h_{\\1}",
+			"a_{\\1}",
+			"",
+			"\\1-s_\\2",
+			"\\1 - s_\\2",
+			"a_\\1h_\\{\\2\\}'",
+			"\\2 \\1",
+			"\\\\\\\\",
+			"\\1",
+			"%d",
+			"\\1",
+			"\\\\\\\\",
+			"\\\\",
+			"join",
+			"\",\\n",
+			"\\n\\n\\t",
+			"\"\\1\",\\n",
+			"\"\\1\\n\"",
+			"clue",
+			"write",
+			"-\\1<\\2\\3>>",
+			"<\\1<\\2\\3>>",
+			"\\1\\2<\\3>>",
+			"<\\1<\\2>>",
+			"\\\"\\1\\\",\\n",
+			"\\\"\\1\\\",",
+			"Dir.glob(/(.*GZ)/.match(__FILE__)[1] + '/helpers/*.rb') { |h| require h }",
+			"write 60, __FILE__",
+			"Dir.glob(/(.*GZ)/.match(__FILE__)[1] + '/helpers/*.rb') { |h| require h }",
+			"Dir.glob(/(.*GZ)/.match(__FILE__)[1] + helpers/*rb) { |h| require h }",
+			"Dir.glob(\"#{/(.*GZ)/.match(__FILE__)[1]}/helpers/*rb\") { |h| require h }",
+			"Dir.glob('helpers/*.rb').each { |helper| require File.expand_path(helper) }",
+			"'\\1'",
+			"\\1 %{",
+			"\\1 % {",
+			"множение",
+			"\\z ",
+			" %{proc}",
+			"%{proc}",
+			"$glob_name = /(\\d+)/.match(__FILE__)[1]",
+			"['../../helpers', '../prob_helpers'].each { |helper| require_relative helper }",
+			"$glob_name = /(\\d+)/.match(__FILE__)[1]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 52.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "GE.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mis",
+				"GZ\\misc.rb"
+			],
+			[
+				"writer",
+				"GZ\\helpers\\writer.rb"
+			],
+			[
+				"zaocalcas",
+				"GZ\\output\\zao_calc_exam_as13.tex"
+			],
+			[
+				"integralareagen",
+				"GZ/stories/calc/integral_area/gen.rb"
+			],
+			[
+				"integralarealist",
+				"GZ/stories/calc/integral_area/list.rb"
+			],
+			[
+				"examgrad",
+				"GZ/templates/exam/grade3(5)"
+			],
+			[
+				"exammai",
+				"GZ/templates/exam/main"
+			],
+			[
+				"tes",
+				"GZ/misc/testing.tex"
+			],
+			[
+				"test",
+				"GExam/testing.tex"
+			],
+			[
+				"gexsty",
+				"latex/GExam.sty"
+			],
+			[
+				"temlexamma",
+				"GZ/templates/exam/main"
+			],
+			[
+				"gesty",
+				"latex/GExam.sty"
+			],
+			[
+				"exasty",
+				"latex/GExam.sty"
+			],
+			[
+				"gzsty",
+				"latex/GZ.sty"
+			],
+			[
+				"mys",
+				"latex/mysty.sty"
+			],
+			[
+				"intlist",
+				"GZ/stories/calc/int_subs/list.rb"
+			],
+			[
+				"derivlist",
+				"GZ/stories/calc/derivative_product/list.rb"
+			],
+			[
+				"derivativelist",
+				"GZ/stories/calc/derivative_expower/list.rb"
+			],
+			[
+				"partsgen",
+				"GZ/stories/calc/int_parts/gen.rb"
+			],
+			[
+				"partsin",
+				"GZ/stories/calc/int_parts/in.tex"
+			],
+			[
+				"areain",
+				"GZ/stories/calc/integral_area/in.tex"
+			],
+			[
+				"inareali",
+				"GZ/stories/calc/integral_area/list.rb"
+			],
+			[
+				"integraaere",
+				"GZ/stories/calc/integral_area/in.tex"
+			],
+			[
+				"math",
+				"latex/mathsymbols.sty"
+			],
+			[
+				"mathsy",
+				"latex/math_symbols.sty"
+			],
+			[
+				"com",
+				"latex/common.sty"
+			],
+			[
+				"limseqin",
+				"GZ/stories/calc/limit_seq/in.tex"
+			],
+			[
+				"gen",
+				"GZ/stories/calc/limit_seq/gen.rb"
+			],
+			[
+				"limseqli",
+				"GZ/stories/calc/limit_seq/list.rb"
+			],
+			[
+				"temex34",
+				"GZ/templates/exam/grade3(4)"
+			],
+			[
+				"myst",
+				"latex/mysty.sty"
+			],
+			[
+				"limitorgen",
+				"GZ/stories/calc/limit_seq_or_PQ/gen.rb"
+			],
+			[
+				"derivall",
+				"GZ/stories/calc/derivative_all/gen.rb"
+			],
+			[
+				"derivain",
+				"GZ/stories/calc/derivative_product/in.tex"
+			],
+			[
+				"derivativein",
+				"GZ/stories/calc/derivative_fraction/in.tex"
+			],
+			[
+				"derivaowe",
+				"GZ/stories/calc/derivative_expower/in.tex"
+			],
+			[
+				"limitpoverin",
+				"GZ/stories/calc/limit_PoverQ/in.tex"
+			],
+			[
+				"templateexam",
+				"GZ/templates/exam/grade3(3)"
+			],
+			[
+				"write",
+				"GZ/helpers/writer.rb"
+			],
+			[
+				"limseq",
+				"GZ/stories/calc/limit_seq/gen.rb"
+			],
+			[
+				"limseqgen",
+				"GZ/stories/calc/limit_seq_or_PQ/gen.rb"
+			],
+			[
+				"limitseq",
+				"GZ/stories/calc/limit_seq/in.tex"
+			],
+			[
+				"wri",
+				"GZ/helpers/writer.rb"
+			],
+			[
+				"derproin",
+				"GZ/stories/calc/derivative_product/in.tex"
+			],
+			[
+				"derproge",
+				"GZ/stories/calc/derivative_product/gen.rb"
+			],
+			[
+				"derprodli",
+				"GZ/stories/calc/derivative_product/list.rb"
+			],
+			[
+				"derili",
+				"GZ/stories/calc/derivative/list.rb"
+			],
+			[
+				"list",
+				"GZ/stories/calc/derivative_product/list.rb"
+			],
+			[
+				"in",
+				"GZ/stories/calc/derivative_product/in.tex"
+			],
+			[
+				"misc",
+				"GZ/misc.rb"
+			],
+			[
+				"deriv",
+				"GZ/stories/calc/derivative_product/gen.rb"
+			],
+			[
+				"out",
+				"GZ/stories/calc/limit_PoverQ/out.rb"
+			],
+			[
+				"lis",
+				"GZ/stories/calc/limit_PoverQ/list.rb"
+			],
+			[
+				"overgen",
+				"GZ/stories/calc/limit_PoverQ/gen.rb"
+			],
+			[
+				"poverge",
+				"GZ/stories/calc/limit_PoverQ/gen.rb"
+			],
+			[
+				"pover",
+				"GZ/stories/calc/limit_PoverQ/in.tex"
+			],
+			[
+				"newsto",
+				"GZ/stories/new_story.rb"
+			],
+			[
+				"comm",
+				"latex/common.sty"
+			],
+			[
+				"mysty",
+				"latex/mysty.sty"
+			],
+			[
+				"neww",
+				"GZ/helpers/new_writer.rb"
+			],
+			[
+				"gamekr3",
+				"GZ/output/game_kr_3.tex"
+			],
+			[
+				"bayesbosin",
+				"GZ/stories/game/bayes_bos/in.tex"
+			],
+			[
+				"bayesbos",
+				"GZ/stories/game/bayes_bos/gen.rb"
+			],
+			[
+				"templkr",
+				"GZ/templates/kr/game_kr_3"
+			],
+			[
+				"gztempl",
+				"GZ/templates/main"
+			],
+			[
+				"wr",
+				"GZ/helpers/writer.rb"
+			],
+			[
+				"mi",
+				"GZ/misc.rb"
+			],
+			[
+				"domainin",
+				"GZ/stories/calc/domain/in.tex"
+			],
+			[
+				"new",
+				"GZ/stories/new_story.rb"
+			],
+			[
+				"temex345",
+				"GZ/templates/exam/grade345(3)"
+			],
+			[
+				"optsimin",
+				"GZ/stories/opti/simplex/in.rb"
+			],
+			[
+				"optgeomin",
+				"GZ/stories/opti/geom/in.rb"
+			],
+			[
+				"optisimpin",
+				"GZ/stories/opti/simplex/in.rb"
+			],
+			[
+				"optigeomin",
+				"GZ/stories/opti/geom/in.rb"
+			],
+			[
+				"mathel",
+				"GZ/helpers/matrix_helpers.rb"
+			],
+			[
+				"optisimplin",
+				"GZ/stories/opti/simplex/in.rb"
+			],
+			[
+				"opgeomge",
+				"GZ/stories/opti/geom/gen.rb"
+			],
+			[
+				"zaooptte",
+				"GZ/output/zao_opti_exam.tex"
+			],
+			[
+				"optsimge",
+				"GZ/stories/opti/simplex/gen.rb"
+			],
+			[
+				"opttransge",
+				"GZ/stories/opti/transport/gen.rb"
+			],
+			[
+				"optigeomgen",
+				"GZ/stories/opti/geom/gen.rb"
+			],
+			[
+				"temexma",
+				"GZ/templates/exam/main"
+			],
+			[
+				"temex3",
+				"GZ/templates/exam/grade3(6)"
+			],
+			[
+				"optransin",
+				"GZ/stories/opti/transport/in.rb"
+			],
+			[
+				"mhel",
+				"GZ/helpers/matrix_helpers.rb"
+			],
+			[
+				"mat",
+				"GZ/helpers/matrix_helpers.rb"
+			],
+			[
+				"optrange",
+				"GZ/stories/opti/transport/gen.rb"
+			],
+			[
+				"optigeomge",
+				"GZ/stories/opti/geom/gen.rb"
+			],
+			[
+				"optisimp",
+				"GZ/stories/opti/simplex/gen.rb"
+			],
+			[
+				"optitrage",
+				"GZ/stories/opti/trade/gen.rb"
+			],
+			[
+				"opttran",
+				"GZ/stories/opti/transport/transport.tex"
+			],
+			[
+				"optgeomout",
+				"GZ/stories/opti/geom/out.rb"
+			],
+			[
+				"opgeoin",
+				"GZ/stories/opti/geom/in.rb"
+			],
+			[
+				"rwi",
+				"GZ/stories/opti/geom/raw_in.rb"
+			],
+			[
+				"strh",
+				"GZ/helpers/string_helper.rb"
+			],
+			[
+				"sthe",
+				"GZ/helpers/stat_helpers.rb"
+			],
+			[
+				"str",
+				"GZ/helpers/string_helper.rb"
+			],
+			[
+				"conge",
+				"GZ/stories/game/contin_utility/gen.rb"
+			],
+			[
+				"matrihe",
+				"GZ/helpers/matrix_helpers.rb"
+			],
+			[
+				"helpers",
+				"GZ/helpers/matrix_helpers.rb"
+			],
+			[
+				"algege",
+				"GZ/stories/alge/1/sleq_3/gen.rb"
+			],
+			[
+				"groupz",
+				"GZ/groups/zao.rb"
+			],
+			[
+				"news",
+				"GZ/stories/new_story.rb"
+			],
+			[
+				"gametex",
+				"GZ/output/game.tex"
+			],
+			[
+				"conin",
+				"GZ/stories/game/contin_utility/in.rb"
+			],
+			[
+				"temkr3",
+				"GZ/templates/kr/3"
+			],
+			[
+				"contiin",
+				"GZ/stories/game/contin_utility/in.rb"
+			],
+			[
+				"gamkr1",
+				"GZ/output/game_kr_1.tex"
+			],
+			[
+				"bimapr",
+				"GZ/helpers/bimatrix_printer.rb"
+			],
+			[
+				"bima",
+				"GZ/helpers/bimatrix.rb"
+			],
+			[
+				"tesi",
+				"GZ/misc/testing.tex"
+			],
+			[
+				"bi2223g",
+				"GZ/stories/game/bi_2x2_and_2x3/gen.rb"
+			],
+			[
+				"bi2223",
+				"GZ/stories/game/bi_2x2_and_2x3/in.rb"
+			],
+			[
+				"temkrma",
+				"GZ/templates/kr/main"
+			],
+			[
+				"tekr3",
+				"GZ/templates/kr/3"
+			],
+			[
+				"gamekr1",
+				"GZ/output/game_kr_1.tex"
+			],
+			[
+				"tempkr",
+				"GZ/templates/kr/3"
+			],
+			[
+				"conti",
+				"GZ/stories/game/contin_utility/in.rb"
+			],
+			[
+				"probgen",
+				"GZ/stories/prob/2/2021/gen.rb"
+			],
+			[
+				"is",
+				"GZ/misc.rb"
+			],
+			[
+				"contige",
+				"GZ/stories/game/contin_utility/gen.rb"
+			],
+			[
+				"gamegeomin",
+				"GZ/stories/game/geom/in.rb"
+			],
+			[
+				"matrih",
+				"GZ/helpers/matrix_helpers.rb"
+			],
+			[
+				"game/",
+				"GZ/stories/game/geom/gen.rb"
+			],
+			[
+				"gahe",
+				"GZ/helpers/game_helpers.rb"
+			],
+			[
+				"gamegeomge",
+				"GZ/stories/game/geom/gen.rb"
+			],
+			[
+				"bi22in",
+				"GZ/stories/game/bi_2x2_md/in.rb"
+			],
+			[
+				"bi2223in",
+				"GZ/stories/game/bi_2x2_and_2x3/in.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Scripts/scripts.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
