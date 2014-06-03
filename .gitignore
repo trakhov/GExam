@@ -1,2 +1,7 @@
 output/*
-
+*.out
+*.gz
+*.toc
+*.log
+*.pdf
+*.aux
