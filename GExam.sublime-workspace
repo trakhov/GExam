@@ -20,42 +20,18 @@
 	"buffers":
 	[
 		{
-			"file": "/D/trakhov/Dropbox/texmf/tex/latex/GExam.sty",
-			"settings":
-			{
-				"buffer_size": 3028,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "testing.tex",
 			"settings":
 			{
-				"buffer_size": 814,
+				"buffer_size": 1775,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "GE_plain.tex",
+			"file": "GExam.sty",
 			"settings":
 			{
-				"buffer_size": 505,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "GE.rb",
-			"settings":
-			{
-				"buffer_size": 474,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "gos_exam.rb",
-			"settings":
-			{
-				"buffer_size": 1294,
+				"buffer_size": 4678,
 				"line_ending": "Unix"
 			}
 		},
@@ -63,15 +39,23 @@
 			"file": "helpers.rb",
 			"settings":
 			{
-				"buffer_size": 2765,
+				"buffer_size": 2789,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "testing2.tex",
+			"file": "gos_exam.rb",
 			"settings":
 			{
-				"buffer_size": 15393,
+				"buffer_size": 1312,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "GE.rb",
+			"settings":
+			{
+				"buffer_size": 490,
 				"line_ending": "Unix"
 			}
 		}
@@ -280,6 +264,56 @@
 	},
 	"file_history":
 	[
+		"/home/trakhov/Dropbox/TeX/GExam/GExam.sty",
+		"/home/trakhov/Dropbox/texmf/tex/latex/GExam.sty",
+		"/home/trakhov/Dropbox/TeX/GExam/GE_txt/100101.65/ГОСЭКЗАМЕН",
+		"/home/trakhov/Dropbox/TeX/GExam/GE_txt/100100.62/ГОСЭКЗАМЕН",
+		"/home/trakhov/Dropbox/TeX/GExam/GE_tmpl.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/GE_main.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/GE_tex/100101.65 ГОСЭКЗАМЕН.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/helpers.rb",
+		"/home/trakhov/Dropbox/TeX/GExam/output/Госэкзамены/100101.65 ГОСЭКЗАМЕН.log",
+		"/home/trakhov/Dropbox/texmf/tex/latex/templates/main.tex",
+		"/home/trakhov/Dropbox/texmf/tex/latex/mathsymbols.sty",
+		"/home/trakhov/Dropbox/texmf/tex/latex/mysty.sty",
+		"/home/trakhov/Dropbox/TeX/GExam/misc.rb",
+		"/home/trakhov/Dropbox/TeX/GExam/groups/m91_insurance.rb",
+		"/home/trakhov/Dropbox/TeX/GExam/data/100103_Экономика.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/testing.log",
+		"/home/trakhov/Dropbox/TeX/GExam/output/Госэкзамены/080109.65 ГОСЭКЗАМЕН (задачи).tex",
+		"/home/trakhov/Dropbox/TeX/GExam/output/Замечания комиссии.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/testing.out",
+		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100101.65 Культурология.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100101.65 Региональная экономика РФ.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100101.65 Прогнозирование и планирование в сервисе.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Информатика.txt",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Автотранспортные средства.txt",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Автотранспортные средства.txt",
+		"/home/trakhov/Dropbox/TeX/GExam/tmpl_tex",
+		"/home/trakhov/Dropbox/texmf/tex/latex/common.sty",
+		"/home/trakhov/Dropbox/TeX/GExam/GE.rb",
+		"/home/trakhov/Dropbox/TeX/GExam/GE_plain.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/testing2.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/testing2.aux",
+		"/home/trakhov/Dropbox/TeX/GExam/gos_exam.rb",
+		"/home/trakhov/Dropbox/TeX/GExam/courses.rb",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Химия.txt",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Экономика.txt",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Культурология.txt",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Математика.txt",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Материаловедение.txt",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Философия.txt",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Правоведение.txt",
+		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Материаловедение.txt",
+		"/home/trakhov/Dropbox/TeX/GExam/GExam_lists.tex",
+		"/home/trakhov/Dropbox/TeX/GExam/testing2.log",
+		"/home/trakhov/Dropbox/TeX/GExam/GE_plain.out",
+		"/home/trakhov/Dropbox/TeX/GExam/GE_plain.log",
+		"/home/trakhov/Dropbox/TeX/GExam/GE_plain.aux",
+		"/home/trakhov/Dropbox/TeX/GExam/GE_plain.fdb_latexmk",
+		"/home/trakhov/Dropbox/TeX/GExam/papeeria/mysty.sty",
+		"/home/trakhov/Dropbox/TeX/GExam/GExam.sublime-project",
+		"/D/trakhov/Dropbox/texmf/tex/latex/GExam.sty",
 		"/D/trakhov/Dropbox/TeX/GExam/gos_exam.rb",
 		"/D/trakhov/Dropbox/TeX/GExam/tmpl_data_3",
 		"/D/trakhov/Dropbox/TeX/GExam/GE_tex/080500.62 ГОСЭКЗАМЕН_список.tex",
@@ -305,55 +339,39 @@
 		"/D/SublimeText3/Data/Packages/User/Ruby.sublime-settings",
 		"/D/trakhov/Dropbox/TeX/GExam/txt/101101/Менеджмент",
 		"/D/trakhov/Dropbox/TeX/GExam/GE_txt/080109.65/ГОСЭКЗАМЕН",
-		"/home/trakhov/Dropbox/texmf/tex/latex/GExam.sty",
 		"/home/trakhov/Dropbox/TeX/GExam/GE_txt/080109.65/ГОСЭКЗАМЕН.rb",
 		"/home/trakhov/Dropbox/TeX/GExam/GE_txt/080109.65/ГОСЭКЗАМЕН_практика.rb",
 		"/home/trakhov/Dropbox/TeX/GExam/GE_txt/080109.65/ГОСЭКЗАМЕН",
 		"/home/trakhov/Dropbox/TeX/GExam/tex/80109/80109_Учет_на_предприятиях_малого_бизнеса.tex",
 		"/home/trakhov/Dropbox/TeX/GExam/tex/80109/80109_Бухгалтерский_учет_в_сфере_услуг.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/output/Госэкзамены/080109.65 ГОСЭКЗАМЕН (задачи).tex",
 		"/home/trakhov/Dropbox/TeX/GExam/GE_tex/080109.65 ГОСЭКЗАМЕН.synctex.gz",
 		"/home/trakhov/Dropbox/TeX/GExam/GE_tex/080109.65 ГОСЭКЗАМЕН.fdb_latexmk",
 		"/home/trakhov/Dropbox/TeX/GExam/GE_tex/080109.65 ГОСЭКЗАМЕН.tex",
 		"/home/trakhov/Dropbox/TeX/GExam/testing.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/data/100103_Экономика.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tmpl_tex",
-		"/home/trakhov/Dropbox/TeX/GExam/misc.rb",
 		"/home/trakhov/Dropbox/TeX/GExam/GE_data/080100.62 ГОСЭКЗАМЕН.tex",
 		"/home/trakhov/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 		"/home/trakhov/Dropbox/TeX/GExam/GE_txt/080100.62/ГОСЭКЗАМЕН",
 		"/home/trakhov/Dropbox/TeX/GExam/data/80109_Учет_на_предприятиях_малого_бизнеса.tex",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Региональная экономика РФ.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/GE.rb",
-		"/home/trakhov/Dropbox/texmf/tex/latex/mysty.sty",
 		"/home/trakhov/Dropbox/TeX/GExam/exam_all.rb",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/80109/Учет на предприятиях малого бизнеса.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/helpers.rb",
 		"/home/trakhov/Dropbox/TeX/GExam/tmpl_data_3",
-		"/home/trakhov/Dropbox/TeX/GExam/courses.rb",
 		"/home/trakhov/Dropbox/TeX/GExam/data/80109_Бухгалтерский_учет_в_сфере_услуг.tex",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/80109/Бухгалтерский учет в сфере услуг.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100103/Методы научных исследований.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/GExam.sublime-project",
-		"/home/trakhov/Dropbox/TeX/GExam/GE_tmpl.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/GE_main.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/gos_exam.rb",
 		"/home/trakhov/Dropbox/TeX/GExam/exam_all.sh",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/80200/Статистика.txt",
-		"/home/trakhov/Dropbox/texmf/tex/latex/templates/main.tex",
 		"/home/trakhov/Dropbox/TeX/GExam/tex/80109/80109_Бухгалтерский_учет_в_сфере_услуг.pdf",
 		"/home/trakhov/Dropbox/TeX/GExam/tmpl_data",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Сервисная деятельность.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Психологический практикум.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Предпринимательская деятельность.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Отечественная история.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Автотранспортные средства.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Сервисная деятельность.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Психологический практикум.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Предпринимательская деятельность.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Отечественная история.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Информатика (умк).txt",
-		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Автотранспортные средства.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100103/Экскурсоведение.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100103/Экономика.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100103/Философия.txt",
@@ -365,16 +383,6 @@
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Химия.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Философия.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Правоведение.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Материаловедение.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Математика.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Культурология.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/txt/100101/Информатика.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Экономика.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/testing.log",
-		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Химия.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Философия.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Правоведение.txt",
-		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Материаловедение.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Культурология.txt",
 		"/home/trakhov/Dropbox/TeX/GExam/txt/100100/Информатика.txt",
 		"/home/trakhov/Dropbox/texmf/tex/latex/mystylight.sty",
@@ -382,32 +390,8 @@
 		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103_Экономика.tex",
 		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100101.65 Правоведение.tex",
 		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100101.65 Материаловедение.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100101.65 Культурология.tex",
 		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100101.65 Информатика.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100100.62 Экономика.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100100.62 Химия.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100100.62 Философия.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100100.62 Правоведение.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100100.62 Материаловедение.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100100.62 Культурология.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100100.62 Информатика.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/data/100103_Мировая_культура_и_искусство.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Мировая культура и искусство.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Музейная и выставочная работа.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Основы социально-культурной деятельности.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103_Профессиональная_этика_и_этикет.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103_Основы_социально-культурной_деятельности.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103_Музейная_и_выставочная_работа.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Стандартизация и сертификация.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Связи с общественностью.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Реклама в СКСиТ.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Региональная экономика РФ.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Психология и педагогика.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Правовое обеспечение СКСиТ.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Методы научных исследований.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Менеджмент в СКСиТ.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Маркетинг в СКСиТ.tex",
-		"/home/trakhov/Dropbox/TeX/GExam/tex/100103/100103.65 Концепции современного естествознания.tex"
+		"/home/trakhov/Dropbox/TeX/GExam/papeeria/100100.62 Экономика.tex"
 	],
 	"find":
 	{
@@ -426,6 +410,28 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"This",
+			"\\makebox[2.8cm]{\\hrulefill}",
+			"NoValue",
+			"#4",
+			"pblength",
+			"command",
+			"\\\\",
+			"\\hrulefill",
+			" ",
+			"\\fbox{",
+			"6cm",
+			"tabbing",
+			"2.8",
+			"6c",
+			"7.5",
+			" /",
+			"3c",
+			"\\hrulefill",
+			"4pt",
+			"topE",
+			"cm",
+			"straight",
 			"	}\n\n\\bigskip\n\n",
 			"		}\n\n\\bigskip\n\n",
 			".+bilGE \\{.+\\}[^А-Яа-я]+(.+)[^А-Яа-я]+(.+)[^А-Яа-я]+(.+)",
@@ -531,29 +537,7 @@
 			"matrix1",
 			".1",
 			"nash_pure",
-			"e.floor",
-			"comple",
-			"(e-1)",
-			"e",
-			"row",
-			"rows",
-			".dom?",
-			"dom?",
-			"@",
-			"z",
-			"after",
-			"nil",
-			"false",
-			"to_add",
-			"matrix_with_",
-			"twos",
-			"_col",
-			"M",
-			"m",
-			"@rows",
-			"ary",
-			"!",
-			"self."
+			"e.floor"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -699,54 +683,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/D/trakhov/Dropbox/texmf/tex/latex/GExam.sty",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3028,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2390,
-								2390
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "tex",
-							"buffer_scroll_name": "9850fe43",
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1485.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "testing.tex",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 814,
+						"buffer_size": 1775,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								519,
-								519
+								429,
+								429
 							]
 						],
 						"settings":
@@ -757,80 +711,76 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 51.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "GE_plain.tex",
+					"buffer": 1,
+					"file": "GExam.sty",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 505,
+						"buffer_size": 4678,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								505,
-								505
+								2430,
+								2430
 							]
 						],
 						"settings":
 						{
-							"bs_sintax": "latex",
-							"buffer_scroll_name": "f8745b64",
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 114.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "GE.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 474,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								304,
-								304
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "ruby",
-							"buffer_scroll_name": "f6ca0cb6",
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1224.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 2,
+					"file": "helpers.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2469,
+								2482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 1881.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "gos_exam.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1294,
+						"buffer_size": 1312,
 						"regions":
 						{
 						},
@@ -843,78 +793,42 @@
 						],
 						"settings":
 						{
-							"bs_sintax": "ruby",
-							"buffer_scroll_name": "fa1922cc",
 							"syntax": "Packages/Ruby/Ruby.tmLanguage",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "GE.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								490,
+								490
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "helpers.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2765,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								203,
-								203
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "ruby",
-							"buffer_scroll_name": "04de3306",
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "testing2.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15393,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								659,
-								459
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "latex",
-							"buffer_scroll_name": "0e447956",
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 369.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -966,7 +880,7 @@
 	"project": "GExam.sublime-project",
 	"replace":
 	{
-		"height": 178.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -975,16 +889,100 @@
 		"selected_items":
 		[
 			[
+				"hel",
+				"GExam/helpers.rb"
+			],
+			[
+				"ges",
+				"latex/GExam.sty"
+			],
+			[
+				"ge_txt100101",
+				"GExam/GE_txt/100101.65/ГОСЭКЗАМЕН"
+			],
+			[
+				"gemai",
+				"GExam/GE_main.tex"
+			],
+			[
+				"main",
+				"latex/templates/main.tex"
+			],
+			[
+				"100101t",
+				"GExam/GE_tex/100101.65 ГОСЭКЗАМЕН.tex"
+			],
+			[
+				"log",
+				"GExam/output/Госэкзамены/100101.65 ГОСЭКЗАМЕН.log"
+			],
+			[
+				"gex",
+				"latex/GExam.sty"
+			],
+			[
+				"getm",
+				"GExam/GE_tmpl.tex"
+			],
+			[
+				"gemain",
+				"GExam/GE_main.tex"
+			],
+			[
+				"gerb",
+				"GExam/GE.rb"
+			],
+			[
+				"gos",
+				"GExam/gos_exam.rb"
+			],
+			[
+				"com",
+				"latex/common.sty"
+			],
+			[
+				"mys",
+				"latex/mysty.sty"
+			],
+			[
+				"myst",
+				"latex/mysty.sty"
+			],
+			[
+				"tes2te",
+				"GExam/testing2.tex"
+			],
+			[
+				"plai",
+				"GExam/GE_plain.tex"
+			],
+			[
 				"gose",
-				"GExam\\gos_exam.rb"
+				"GExam/gos_exam.rb"
+			],
+			[
+				"cour",
+				"GExam/courses.rb"
+			],
+			[
+				"my",
+				"latex/mysty.sty"
+			],
+			[
+				"pl",
+				"GExam/GE_plain.tex"
+			],
+			[
+				"p",
+				"GExam/GE_plain.tex"
+			],
+			[
+				"gexst",
+				"latex/GExam.sty"
 			],
 			[
 				"helpers",
 				"GExam\\helpers.rb"
-			],
-			[
-				"gerb",
-				"GExam\\GE.rb"
 			],
 			[
 				"tes2",
@@ -1023,10 +1021,6 @@
 				"GExam/GE_txt/080109.65/ГОСЭКЗАМЕН"
 			],
 			[
-				"ges",
-				"latex/GExam.sty"
-			],
-			[
 				"gexam",
 				"latex/GExam.sty"
 			],
@@ -1051,10 +1045,6 @@
 				"GExam/helpers.rb"
 			],
 			[
-				"cour",
-				"GExam/courses.rb"
-			],
-			[
 				"tmplda",
 				"GExam/tmpl_data"
 			],
@@ -1075,10 +1065,6 @@
 				"GExam/txt/100101/Математика.txt"
 			],
 			[
-				"hel",
-				"GExam/helpers.rb"
-			],
-			[
 				"tml",
 				"GExam/tmpl_tex"
 			],
@@ -1097,14 +1083,6 @@
 			[
 				"100103",
 				"GExam/data/100103_Мировая_культура_и_искусство.tex"
-			],
-			[
-				"my",
-				"latex/mysty.sty"
-			],
-			[
-				"mys",
-				"latex/mysty.sty"
 			],
 			[
 				"temex345",
@@ -1421,70 +1399,6 @@
 			[
 				"gamehel",
 				"GZ/helpers/game_helpers.rb"
-			],
-			[
-				"leman",
-				"GZ/templates/letuch/main"
-			],
-			[
-				"letumai",
-				"GZ/templates/letuch/main"
-			],
-			[
-				"bi22mdin",
-				"GZ/stories/game/bi_2x2_md/in.rb"
-			],
-			[
-				"temle1",
-				"GZ/templates/letuch/1"
-			],
-			[
-				"gameletu2te",
-				"GZ/output/game_letuch_2.tex"
-			],
-			[
-				"bi2x2gen",
-				"GZ/stories/game/bi_2x2_md/gen.rb"
-			],
-			[
-				"bi22g",
-				"GZ/stories/game/bi_2x2_and_2x3/gen.rb"
-			],
-			[
-				"temlet1",
-				"GZ/templates/letuch/(12)"
-			],
-			[
-				"pro",
-				"GZ/helpers/prob_helpers.rb"
-			],
-			[
-				"prob",
-				"GZ/helpers/prob_helpers.rb"
-			],
-			[
-				"datagamee12",
-				"GZ/data/zao_game_kr_e12.tex"
-			],
-			[
-				"red",
-				"GZ/stories/game/zao/simplex/redlap.tex"
-			],
-			[
-				"gamezaosimp",
-				"GZ/stories/game/zao/simplex/gen.rb"
-			],
-			[
-				"bi2x3",
-				"GZ/stories/game/bi_2x3_md/gen.rb"
-			],
-			[
-				"bi23in",
-				"GZ/stories/game/bi_2x3_md/in.rb"
-			],
-			[
-				"matri",
-				"GZ/helpers/matrix_helpers.rb"
 			]
 		],
 		"width": 0.0
@@ -1515,7 +1429,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 272.0,
 	"status_bar_visible": true,
 	"template_settings":
