@@ -1,5 +1,4 @@
 
-\pagestyle{empty}
 \parindent = 0pt
 
 \usepackage{fancyhdr} 
@@ -10,7 +9,7 @@
 \newlength{\miniL}\setlength{\miniL}{188mm}
 \newlength{\logoW}\setlength{\logoW}{35mm}
 
-% \newcounter{bilet}
+\newcounter{bilet}
 
 \newcommand{\bak}{Направление}
 \newcommand{\spec}{}
@@ -25,8 +24,14 @@
 
 \DeclareDocumentCommand \insertItem { m } { \item #1 }
 
+\DeclareDocumentCommand \insertParZ { m } 
+{ 
+	\paragraph{Задание \the\paragraph} #1
+}
 
-\DeclareDocumentCommand \Etop {} {
+
+\DeclareDocumentCommand \Etop { O{Экзаменационный билет} } 
+{
 	\begin{center}	
   	\parbox[b]{\logoW}{\centering\includegraphics[width=2cm]{\logo}}%
   	\parbox[b]{\miniL - \logoW}{
@@ -44,32 +49,35 @@
 			}\vfill
   	}\medskip
 
-    {\large\textbf{\textsc{Экзаменационный билет №\thebilet}}
+    {\large\textbf{\textsc{#1 №\thebilet}}
 
     }	
   \end{center}
 } 
 
 
-\DeclareDocumentEnvironment {GEtop} {s} {
+\DeclareDocumentEnvironment {GEtop} { s O{Экзаменационный билет} } 
+{
 	{\small\centering
-		Министерство образования и науки РФ\\
-		Филиал федерального государственного бюджетного образовательного учреждения высшего образования\\
+		Министерство образования и науки РФ
+		Филиал федерального государственного бюджетного образовательного учреждения высшего образования
+
 		<<Санкт-Петербургский государственный экономический университет>> в г. Пскове
 		\smallskip
 
 		\normalsize Государственный экзамен 
-			\IfBooleanTF {#1} {по специальности} {по направлению}\\
-		\spec\ <<\spectitle>>
-		\specType
+			\IfBooleanTF {#1} {по специальности} {по направлению}
+
+		\spec\ <<\spectitle>> \specType
 
 		\normalsize\the\year\ г.\medskip
 
-		\large\textbf{\textsc{Экзаменационный билет №\thebilet}}\normalsize
+		\large\textbf{\textsc{#2 №\thebilet}}\normalsize
 
 	}
-}{
-	{\centering%
+}
+{
+	{\centering
 		Директор филиала \rlfill\ А. М. Алексеева
 
   }
@@ -77,57 +85,26 @@
 
 
 
-\DeclareDocumentCommand \ExamCard
-	{ > { \SplitList {;;} } m } {
-	
+\DeclareDocumentCommand \ExamCard 
+{ O{Экзаменационный билет} +D//{} > { \SplitList {;;} } m } 
+{	
 	\begin{minipage}[b][\miniH][t]{\miniL}			
 	\vspace{.7cm}\addtocounter{bilet}{1}
-  \Etop
-  \begin{enumerate}{ \ProcessList {#1} { \insertItem } }\end{enumerate}	
+  \Etop[#1]
+  #2
+  \begin{enumerate}{ \ProcessList {#3} { \insertItem } }\end{enumerate}	
 	\end{minipage}
 }
 
 
-\DeclareDocumentCommand \teacher { m } {
-	\IfNoValueTF {#1} {} {
-		\renewcommand{\teacherName}{
-			\centering({\footnotesize #1})
-		}
-	}
-}
 
-\DeclareDocumentCommand \zavkaf { m } {
-	\IfNoValueTF {#1} {} {
-		\renewcommand{\zavkafName}{
-			\centering({\footnotesize #1})
-		}
-	}
-}
-
-
-
-\DeclareDocumentCommand \spectype { m } {
-	\IfNoValueTF {#1} {} {
-		% \renewcommand{\specType}{\\[-2pt]{\small(специализация «#1»)}}
-		\renewcommand{\specType}{(<<#1>>)} 
-	}
-} 
-
-
-\DeclareDocumentCommand \rlfill { O{28mm} } {
-	\makebox[#1]{\hrulefill}
-}
-
-
-\newcommand{\spectitle}{}
-% \newcommand{\year}{2014}
-
-
-\DeclareDocumentCommand \GExamCard { s o > {\SplitList {;;} } m o } {
+\DeclareDocumentCommand \GExamCard 
+{ s O{Экзаменационный билет} > {\SplitList {;;} } m } 
+{%
 	\addtocounter{bilet}{1}%
 	\begin{minipage}[b][\miniH][t]{\miniL}%
 	\vspace{7mm}
-	\IfBooleanTF {#1} {\begin{GEtop}*} {\begin{GEtop}}
+	\IfBooleanTF {#1} {\begin{GEtop}*[#2]} {\begin{GEtop}[#2]}
 	  \begin{flushleft}
 		  \begin{enumerate}{ \ProcessList {#3} { \insertItem } }\end{enumerate}	
 	  \end{flushleft}
@@ -140,7 +117,50 @@
 
 
 
-\DeclareDocumentCommand \smallGE { s m m o } {
+\DeclareDocumentCommand \teacher { m } 
+{
+	\IfNoValueTF {#1} {} {
+		\renewcommand{\teacherName}{
+			\centering({\footnotesize #1})
+		}
+	}
+}
+
+\DeclareDocumentCommand \zavkaf { m } 
+{
+	\IfNoValueTF {#1} {} {
+		\renewcommand{\zavkafName}{
+			\centering({\footnotesize #1})
+		}
+	}
+}
+
+
+
+\DeclareDocumentCommand \spectype { m } 
+{
+	\IfNoValueTF {#1} {} {
+		% \renewcommand{\specType}{\\[-2pt]{\small(специализация «#1»)}}
+		\renewcommand{\specType}{(<<#1>>)} 
+	}
+} 
+
+
+\DeclareDocumentCommand \rlfill { O{28mm} } 
+{
+	\makebox[#1]{\hrulefill}
+}
+
+
+\newcommand{\spectitle}{}
+
+
+
+
+
+
+\DeclareDocumentCommand \smallGE { s m m o } 
+{
 	\begin{center}\Large\bfseries
 		Государственный экзамен
 		\IfBooleanTF {#1} {по специальности} {по направлению}\\ 
@@ -150,25 +170,6 @@
 	\end{center}
 }
 
-
-
-\DeclareDocumentCommand \bilGE { m m m m } {
-	\begin{enumerate}
-		\item #2
-		\item #3
-		\item #4
-	\end{enumerate}
-}
-
-
-\DeclareDocumentCommand \prGE { } {
-
-	\addtocounter{zad}{1}
-	\noindent{\large\bfseries\textsc{\hfilЗадача №\arabic{zad}}
-
-	}
-	\medskip
-}
 
 
 
