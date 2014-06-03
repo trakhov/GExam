@@ -1,0 +1,8 @@
+output/*
+*.pdf
+*.aux
+*.gz
+*.log
+*.toc
+*.out
+*latexmk
