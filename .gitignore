@@ -6,3 +6,5 @@ output/*
 *.pdf
 *.aux
 *latexmk
+*sublime-workspace
+*sublime-project
