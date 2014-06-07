@@ -8,6 +8,7 @@
 \newlength{\miniH}\setlength{\miniH}{98.7mm}
 \newlength{\miniL}\setlength{\miniL}{188mm}
 \newlength{\logoW}\setlength{\logoW}{35mm}
+\newlength{\vOffset}\setlength{\vOffset}{10mm}
 
 \newcounter{bilet}
 
@@ -47,7 +48,7 @@
 			\parbox[t]{\widthof{Зав. кафедрой: \rlfill}}{
 				Зав. кафедрой: \rlfill\\\zavkafName
 			}\vfill
-  	}\medskip
+  	}\bigskip
 
     {\large\textbf{\textsc{#1 №\thebilet}}
 
@@ -89,7 +90,7 @@
 { O{Экзаменационный билет} +D//{} > { \SplitList {;;} } m } 
 {	
 	\begin{minipage}[b][\miniH][t]{\miniL}			
-	\vspace{.7cm}\addtocounter{bilet}{1}
+	\vspace{\vOffset}\addtocounter{bilet}{1}
   \Etop[#1]
   #2
   \begin{enumerate}{ \ProcessList {#3} { \insertItem } }\end{enumerate}	
