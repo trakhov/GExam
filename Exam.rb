@@ -6,6 +6,11 @@ class Exam
 		data.each do |k, v|
 			instance_variable_set "@#{k}", v
 		end
+		@renews = data.map do |k, v|
+			unless [:teacher, :zav].include? k
+				"\\renewcommand{\\#{k.to_s}}{#{v}}"
+			end
+		end.compact.join("\n")
 	end
 	
 
@@ -31,14 +36,6 @@ class Exam
 	def get_out_name(dir)
 		filename = "#{@spec} #{@course}.tex"
 		File.join 'output', dir, filename
-	end
-
-
-	def renew(opts)
-		# opts = @@defaults.merge options
-		opts.map do |k, v|
-			"\\renewcommand{\\#{k.to_s}}{#{v}}"
-		end.join("\n")
 	end
 
 
@@ -69,19 +66,13 @@ class SemEx < Exam
 
 
 
-	def prepare(opts: {}, subl: true)
-		defaults = {
-			spec: @spec,
-			disc: @course,
-			kaf: @kaf
-		}
-		options = defaults.merge opts
+	def prepare(subl: true)
 		cards = make_cards @@cmd
 		out = get_out_name @@out_dir
 
 		open(out, 'w') do |file|
 			file.write @@main % {
-				renews: renew(options),
+				renews: @renews,
 				teacher: @teacher,
 				zav: @zav,
 				cards: cards
@@ -128,6 +119,8 @@ end
 
 
 
-e = SemEx.collect[0]
+SemEx.collect.each { |exam| exam.prepare }
 
-e.prepare opts: {protocol: '13.12.2014'}
+
+
+

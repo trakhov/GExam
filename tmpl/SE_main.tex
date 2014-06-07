@@ -1,0 +1,38 @@
+\documentclass[
+	12pt,
+	a4paper,
+	]
+	{article}
+
+\usepackage{mysty, xparse, ../../GExam, fancyhdr}
+
+\usepackage[
+	top = 0cm,
+	bottom = 0cm,
+	left = 1cm,
+	right = 1cm,
+	headheight = 15pt,
+	]{geometry}
+
+\pagestyle{fancy}
+
+\lhead{
+	\begin{tikzpicture}[remember picture, overlay]
+		\foreach \z/\c in {0mm/white, -99mm/black, -198mm/black}{
+			\draw[dashed, \c] (current page.north west) ++ (0, \z) -- +(210mm, 0);
+			%% \signatures[trakhov]{8}{43mm} [ivanov]{16.2}{37mm}
+		}
+	\end{tikzpicture}
+}
+
+
+\begin{document}
+
+%{renews}
+
+\teacher {%{teacher}}
+\zavkaf {%{zav}}
+
+%{cards}
+
+\end{document}
